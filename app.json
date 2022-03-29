@@ -1,5 +1,5 @@
 {
-  "name": "HysteriaHeroku",
+  "name": "Heroku-Hysteria",
   "description": "Hysteria on heroku",
   "keywords": ["Hysteria"],
   "env": {
